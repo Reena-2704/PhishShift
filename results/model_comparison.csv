@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1_score,false_positive_rate,true_negative,false_positive,false_negative,true_positive
+Rule Baseline,0.75,1.0,0.5,0.6667,0.0,60,0,30,30
+Logistic Regression,1.0,1.0,1.0,1.0,0.0,60,0,0,60
+Multinomial Naive Bayes,1.0,1.0,1.0,1.0,0.0,60,0,0,60

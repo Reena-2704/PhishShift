@@ -1,0 +1,31 @@
+model,message_id,campaign_group,actual_label,predicted_label,error_type,message
+rule_baseline,phish_campaign_10_001,phish_campaign_10,1,0,False Negative,A document is waiting for your approval Please review the request using [URL_REDACTED].
+rule_baseline,phish_campaign_10_002,phish_campaign_10,1,0,False Negative,A document is waiting for your approval The sender requests confirmation of account information.
+rule_baseline,phish_campaign_10_003,phish_campaign_10,1,0,False Negative,A document is waiting for your approval Review the request soon before access is affected.
+rule_baseline,phish_campaign_10_004,phish_campaign_10,1,0,False Negative,A document is waiting for your approval Do not share passwords or verification codes in a reply.
+rule_baseline,phish_campaign_10_005,phish_campaign_10,1,0,False Negative,"Hello, A document is waiting for your approval Please review the request using [URL_REDACTED]."
+rule_baseline,phish_campaign_10_006,phish_campaign_10,1,0,False Negative,"Hello, A document is waiting for your approval The sender requests confirmation of account information."
+rule_baseline,phish_campaign_10_007,phish_campaign_10,1,0,False Negative,"Hello, A document is waiting for your approval Review the request soon before access is affected."
+rule_baseline,phish_campaign_10_008,phish_campaign_10,1,0,False Negative,"Hello, A document is waiting for your approval Do not share passwords or verification codes in a reply."
+rule_baseline,phish_campaign_10_009,phish_campaign_10,1,0,False Negative,Notice: A document is waiting for your approval Please review the request using [URL_REDACTED].
+rule_baseline,phish_campaign_10_010,phish_campaign_10,1,0,False Negative,Notice: A document is waiting for your approval The sender requests confirmation of account information.
+rule_baseline,phish_campaign_10_011,phish_campaign_10,1,0,False Negative,Notice: A document is waiting for your approval Review the request soon before access is affected.
+rule_baseline,phish_campaign_10_012,phish_campaign_10,1,0,False Negative,Notice: A document is waiting for your approval Do not share passwords or verification codes in a reply.
+rule_baseline,phish_campaign_10_013,phish_campaign_10,1,0,False Negative,Update: A document is waiting for your approval Please review the request using [URL_REDACTED].
+rule_baseline,phish_campaign_10_014,phish_campaign_10,1,0,False Negative,Update: A document is waiting for your approval The sender requests confirmation of account information.
+rule_baseline,phish_campaign_10_015,phish_campaign_10,1,0,False Negative,Update: A document is waiting for your approval Review the request soon before access is affected.
+rule_baseline,phish_campaign_10_016,phish_campaign_10,1,0,False Negative,Update: A document is waiting for your approval Do not share passwords or verification codes in a reply.
+rule_baseline,phish_campaign_10_017,phish_campaign_10,1,0,False Negative,Please note: A document is waiting for your approval Please review the request using [URL_REDACTED].
+rule_baseline,phish_campaign_10_018,phish_campaign_10,1,0,False Negative,Please note: A document is waiting for your approval The sender requests confirmation of account information.
+rule_baseline,phish_campaign_10_019,phish_campaign_10,1,0,False Negative,Please note: A document is waiting for your approval Review the request soon before access is affected.
+rule_baseline,phish_campaign_10_020,phish_campaign_10,1,0,False Negative,Please note: A document is waiting for your approval Do not share passwords or verification codes in a reply.
+rule_baseline,phish_campaign_11_003,phish_campaign_11,1,0,False Negative,Your account access will be limited pending review Review the request soon before access is affected.
+rule_baseline,phish_campaign_11_004,phish_campaign_11,1,0,False Negative,Your account access will be limited pending review Do not share passwords or verification codes in a reply.
+rule_baseline,phish_campaign_11_007,phish_campaign_11,1,0,False Negative,"Hello, Your account access will be limited pending review Review the request soon before access is affected."
+rule_baseline,phish_campaign_11_008,phish_campaign_11,1,0,False Negative,"Hello, Your account access will be limited pending review Do not share passwords or verification codes in a reply."
+rule_baseline,phish_campaign_11_011,phish_campaign_11,1,0,False Negative,Notice: Your account access will be limited pending review Review the request soon before access is affected.
+rule_baseline,phish_campaign_11_012,phish_campaign_11,1,0,False Negative,Notice: Your account access will be limited pending review Do not share passwords or verification codes in a reply.
+rule_baseline,phish_campaign_11_015,phish_campaign_11,1,0,False Negative,Update: Your account access will be limited pending review Review the request soon before access is affected.
+rule_baseline,phish_campaign_11_016,phish_campaign_11,1,0,False Negative,Update: Your account access will be limited pending review Do not share passwords or verification codes in a reply.
+rule_baseline,phish_campaign_11_019,phish_campaign_11,1,0,False Negative,Please note: Your account access will be limited pending review Review the request soon before access is affected.
+rule_baseline,phish_campaign_11_020,phish_campaign_11,1,0,False Negative,Please note: Your account access will be limited pending review Do not share passwords or verification codes in a reply.

@@ -1,0 +1,6 @@
+experiment_id,experiment,purpose,outcome,limitation
+EXP-01,Synthetic dataset generation,Create labelled examples with campaign groups,480 unique messages; 240 per label,Synthetic examples only
+EXP-02,Campaign-separated model comparison,"Compare rules, Logistic Regression and Naive Bayes",Rule baseline 75%; both ML models 100% on this test set,Repeated synthetic wording may inflate scores
+EXP-03,Acceptance and robustness tests,"Probe unfamiliar wording, URL patterns and legitimate notices",Five manually written cases tested; scores saved,"Small, manually selected test set"
+EXP-04,EDA and data-quality checks,"Inspect labels, channels, campaigns and data quality",480 unique bodies and zero missing values,"Dataset balance is synthetic, not representative"
+EXP-05,Error analysis,Inspect mistakes on held-out campaigns,30 rule-baseline errors; zero ML-model errors,Zero observed errors does not prove general reliability

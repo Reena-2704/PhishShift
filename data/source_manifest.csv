@@ -1,0 +1,2 @@
+dataset,record_count,records_before_deduplication,source_type,external_dataset_used,live_urls_used,label_meaning,limitation
+PhishShift synthetic prototype dataset,480,480,locally generated synthetic examples,No,No; URLs are redacted placeholders,1 = suspicious scenario; 0 = legitimate scenario,Synthetic examples do not represent real-world performance or prove reliable phishing detection.

@@ -1,0 +1,6 @@
+test_name,message,expected_behavior,suspicious_score,scanner_result,within_uncertain_band
+Legitimate urgent password reset,Urgent: The IT team has scheduled a password reset. Visit your usual company portal or contact IT support.,legitimate_or_uncertain,0.2673,NO STRONG SUSPICIOUS PATTERN,False
+Unfamiliar suspicious wording,Your digital access token is awaiting reconciliation. Use [URL_REDACTED] to review the pending request.,suspicious_or_uncertain,0.7683,POTENTIALLY SUSPICIOUS,False
+Defanged URL pattern,Your account requires review at hxxps[:]//example[.]invalid,suspicious_or_uncertain,0.6813,POTENTIALLY SUSPICIOUS,False
+Punctuation and spacing variation,A c c o u n t  r e v i e w !!! Your access may change; see [URL_REDACTED],suspicious_or_uncertain,0.7459,POTENTIALLY SUSPICIOUS,False
+Routine legitimate notice,The college timetable is available on the usual student portal.,legitimate_or_uncertain,0.1357,NO STRONG SUSPICIOUS PATTERN,False

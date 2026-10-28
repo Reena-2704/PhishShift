@@ -1,0 +1,38 @@
+[
+    {
+        "model": "Rule Baseline",
+        "accuracy": 0.75,
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1_score": 0.6667,
+        "false_positive_rate": 0.0,
+        "true_negative": 60,
+        "false_positive": 0,
+        "false_negative": 30,
+        "true_positive": 30
+    },
+    {
+        "model": "Logistic Regression",
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "true_negative": 60,
+        "false_positive": 0,
+        "false_negative": 0,
+        "true_positive": 60
+    },
+    {
+        "model": "Multinomial Naive Bayes",
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "false_positive_rate": 0.0,
+        "true_negative": 60,
+        "false_positive": 0,
+        "false_negative": 0,
+        "true_positive": 60
+    }
+]
